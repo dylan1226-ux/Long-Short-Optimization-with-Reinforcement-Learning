@@ -1,7 +1,7 @@
 # Long/Short Optimization with Reinforcement Learning 
 ### 1. Introduction
 Transforming raw stock data into predictive signals, or alphas, is commonly practiced by professionals to identify potential trading opportunities in financial markets. 
-I developed and refined a reinforcement learning-based model with the optimization of a long/short strategy. 
+I developed and refined a reinforcement learning model (RL) with the optimization of a long/short strategy. 
 Compared to commonly used genetic programming, the RL model directly uses the performance of a pool of alphas to optimize an alpha generator, 
 taking into account the synergy involved in stock selection.
 
